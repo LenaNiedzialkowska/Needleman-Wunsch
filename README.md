@@ -9,7 +9,7 @@ python needleman-wunsch.py
 <mismatch_score>
 <gap_score>
 
-Dla sekwencji: 
+Dla argumentów match_score = 1, mismatch_score = -1 i gap_score = -2 oraz sekwencji: 
 
 >DOJHLOP01DWJWJ length=100 xy=1483_3377 region=1 run=R_2005_09_08_15_35_38_
 TCGATTCTATGGAGGGATGCTGGCAAGGCTCCGGAAGCAGCATCAGCAATTAAAAAATTA
