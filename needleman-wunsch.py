@@ -16,7 +16,7 @@ for fasta in fasta_sequences:
 
 # print(sequence_1, sequence_2)
 
-# Stworzenie macierzy o wymiarach (n+1)x(n+1)
+# Stworzenie macierzy o wymiarach (n+1)x(m+1)
 matrix = np.zeros((len(sequence_1) + 1, len(sequence_2) + 1))
 check_matrix_score = np.zeros((len(sequence_1), len(sequence_2)))
 
